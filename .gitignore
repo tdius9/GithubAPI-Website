@@ -1,0 +1,28 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore preview.png file
+preview.PNG
+
+# Ignore IDE and editor files
+.idea/
+.vscode/
+
+# Ignore build and compiled files
+dist/
+build/
+
+# Ignore environment variables
+.env
+
+# Ignore sensitive or personal files
+config.js
+secrets.json
+
+# Ignore logs and generated files
+logs/
+*.log
+
+# Ignore dependencies lock files
+yarn.lock
+package-lock.json
