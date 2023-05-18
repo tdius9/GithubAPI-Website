@@ -4,7 +4,7 @@ Welcome to GithubAPI | Xquizt #2! This is a website that allows you to search fo
 
 ## Preview
 
-![Image Alt Text](./preview.PNG)
+![Preview](./preview.PNG)
 
 ## Features
 
