@@ -25,20 +25,23 @@ To run this website locally, follow these steps:
 1. Clone the repository:
 
 
-```git clone https://github.com/your-username/githubapi-xquizt.git```
+```
+git clone https://github.com/your-username/githubapi-xquizt.git
+```
 
-    Navigate to the project directory:
+Navigate to the project directory:
 
 
-
-```cd githubapi-xquizt```
+```
+cd githubapi-xquizt
+```
 
 
 Contributing
 
 Contributions are welcome! If you would like to contribute to this project, follow these steps:
 
-    Fork the repository.
+Fork the repository.
     Create a new branch for your feature/bug fix.
     Make your changes.
     Commit and push your changes to your forked repository.
