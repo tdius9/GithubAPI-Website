@@ -24,16 +24,15 @@ To run this website locally, follow these steps:
 
 1. Clone the repository:
 
-```bash
-git clone https://github.com/your-username/githubapi-xquizt.git```
+
+```git clone https://github.com/your-username/githubapi-xquizt.git```
 
     Navigate to the project directory:
 
-```bash
 
-cd githubapi-xquizt```
 
-    Open the index.html file in your web browser.
+```cd githubapi-xquizt```
+
 
 Contributing
 
