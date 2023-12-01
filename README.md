@@ -26,7 +26,7 @@ To run this website locally, follow these steps:
 
 
 ```
-git clone https://github.com/your-username/githubapi-xquizt.git
+git clone https://github.com/tdius9/GithubAPI-Website.git
 ```
 
 Navigate to the project directory:
